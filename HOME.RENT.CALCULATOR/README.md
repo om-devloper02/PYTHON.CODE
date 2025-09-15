@@ -21,11 +21,6 @@ Expense_Splitter/
 │── main.py       # Main program
 │── README.md     # Documentation
 
-⚙️ How to Run
-1️⃣ Clone the project
-git clone https://github.com/your-username/Expense_Splitter.git
-cd Expense_Splitter
-
 2️⃣ Run the program
 python main.py
 
