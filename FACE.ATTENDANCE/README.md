@@ -145,11 +145,6 @@ Face_Recognition_Attendance/
 │── main.py               # Main program file
 │── README.md             # Documentation
 
-⚙️ How to Run
-1️⃣ Clone this project
-git clone https://github.com/your-username/Face_Recognition_Attendance.git
-cd Face_Recognition_Attendance
-
 2️⃣ Install dependencies
 pip install opencv-python
 pip install face_recognition
